@@ -1,0 +1,58 @@
+body {
+    background: lightskyblue;
+    border: solid 7px rgb(17, 204, 17);
+    padding: 50px;
+    margin: 30px;
+    width: 70%;
+}
+
+.about {
+    color: white;
+    font-size: 30px;
+    font: bold;
+}
+
+.title {
+    font-size: 35px;
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 23px;
+    padding: 15px;
+}
+
+img {
+    height: 300px;
+    float: right;
+    padding: 40px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    gap: 10px;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+a {
+    color: rgb(46, 202, 46);
+}
+
+.us {
+    color: white;
+    font-weight: bold;
+}
